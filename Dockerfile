@@ -1,4 +1,4 @@
-FROM node:8.9.4-alpine
+FROM node:7.10.0-alpine
 
 # INSTALL PYTHON PACKAGES
 USER root
